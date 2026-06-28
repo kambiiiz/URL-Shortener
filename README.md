@@ -9,7 +9,6 @@ Simple URL shortening service.
 ##Tech Stack
 - Redis
 - PostgreSQL
-- Docker
-
+- Docke
 ##License
 MIT
